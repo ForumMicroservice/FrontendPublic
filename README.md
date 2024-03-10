@@ -1,5 +1,3 @@
-# yolosan-forum
-
 ## Project setup
 ```
 yarn install
